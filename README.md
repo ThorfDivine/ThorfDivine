@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 ### - 🌱 I’m currently learning JAVA
 ### - 💬 Ask me about anything
 ### - 📫 How to reach me: instagram: gustavo_b_o_santos
-### - 😄 Pronouns: helicoptero JAPONEZ
 
