@@ -1,4 +1,4 @@
-### HELLO ladys and gentleman, my name is Gustavo, i'm 16 and i'm studing in Etec Bartolomeo Bueno da Silva, my mission is be great and learn more and more 👊
+### HELLO ladys and gentleman, my name is Gustavo, i'm 18 and i'm studing in Etec Bartolomeo Bueno da Silva, my mission is learn more and more
 ### ____________________________________________________________________________________________________________________
 <!--
 **ThorfDivine/ThorfDivine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
