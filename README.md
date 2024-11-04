@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-### - 🔭 I’m currently working on html, CSS, PHP, JavaScript, SQL
-### - 🌱 I’m currently learning JAVA, C#, React-native
+### - 🔭 I’m currently working on html, CSS, PHP, JavaScript, SQL, C#,React-native, React, JAVA
+### - 🌱 I’m currently learning NODE.js  
 ### - 💬 Ask me about anything
 ### - 📫 How to reach me: instagram: gustavo_b_o_santos
 
