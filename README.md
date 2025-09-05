@@ -1,12 +1,38 @@
-### HELLO ladys and gentleman, my name is Gustavo, i'm 18 and i'm studing in Etec Bartolomeo Bueno da Silva, my mission is learn more and more
-### ____________________________________________________________________________________________________________________
-<!--
-**ThorfDivine/ThorfDivine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Gustavo Batista!
 
-Here are some ideas to get you started:
--->
-### - 🔭 I’m currently working on html, CSS, PHP, JavaScript, SQL, C#,React-native, React, JAVA
-### - 🌱 I’m currently learning NODE.js  
-### - 💬 Ask me about anything
-### - 📫 How to reach me: instagram: gustavo_b_o_santos
+💻 **Desenvolvedor Back-End** | 🚀 Apaixonado por programação, inovação e aprendizado contínuo.  
+🎯 Busco sempre evoluir tecnicamente e contribuir com soluções eficientes em equipe.
 
+---
+
+## 🚀 Tecnologias & Ferramentas
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+---
+
+## 💼 Experiência
+- **Professor de Programação e Robótica – Ctrl+Play (2025 - Atual)**  
+- **Desenvolvedor – Freelan (2022 - 2024)**  
+- **Auxiliar Técnico – NomaTech (2020 - 2021)**  
+
+---
+
+## 📌 Projetos
+🔹 **BartoHelp** – Plataforma de empregabilidade (JS, PHP, SQL)  
+🔹 **Imoblink** – Sistema de captação de imóveis (React Native, C#, SQL)  
+
+---
+
+## 🌍 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-batista-de-oliveira-santos-020555309)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ThorfDivine)
+📧 **gustavobatistabos.td@gmail.com**
