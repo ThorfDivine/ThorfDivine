@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou o Gustavo Batista!
+#  Olá, eu sou o Gustavo Batista!
 
-💻 **Desenvolvedor Back-End** | 🚀 Apaixonado por programação, inovação e aprendizado contínuo.  
-🎯 Busco sempre evoluir tecnicamente e contribuir com soluções eficientes em equipe.
+ **Desenvolvedor Back-End** | 🚀 Apaixonado por programação, inovação e aprendizado contínuo.  
+ Busco sempre evoluir tecnicamente e contribuir com soluções eficientes em equipe.
 
 ---
 
