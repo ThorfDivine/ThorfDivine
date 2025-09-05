@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -19,20 +19,20 @@
 
 ---
 
-## 💼 Experiência
+## Experiência
 - **Professor de Programação e Robótica – Ctrl+Play (2025 - Atual)**  
 - **Desenvolvedor – Freelan (2022 - 2024)**  
 - **Auxiliar Técnico – NomaTech (2020 - 2021)**  
 
 ---
 
-## 📌 Projetos
+## Projetos
 🔹 **BartoHelp** – Plataforma de empregabilidade (JS, PHP, SQL)  
 🔹 **Imoblink** – Sistema de captação de imóveis (React Native, C#, SQL)  
 
 ---
 
-## 🌍 Conecte-se comigo
+## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-batista-de-oliveira-santos-020555309)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ThorfDivine)
 📧 **gustavobatistabos.td@gmail.com**
