@@ -29,6 +29,7 @@
 ## Projetos
 🔹 **BartoHelp** – Plataforma de empregabilidade (JS, PHP, SQL)  
 🔹 **Imoblink** – Sistema de captação de imóveis (React Native, C#, SQL)  
+🔹 **SEGI** – Erp educaciona (NODE.js, SQL) 
 
 ---
 
