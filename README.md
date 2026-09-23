@@ -20,7 +20,8 @@
 ---
 
 ## Experiência
-- **Professor de Programação e Robótica – Ctrl+Play (2025 - Atual)**  
+- **Analista de Governança – Proative Tecnology (2026 - Atual)**  
+- **Professor de Programação e Robótica – Ctrl+Play (2025 - 2026)**  
 - **Desenvolvedor – Freelan (2022 - 2024)**  
 - **Auxiliar Técnico – NomaTech (2020 - 2021)**  
 
